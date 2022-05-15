@@ -25,3 +25,6 @@ You can find 2 pretrained model with their datasets in the root folder.
 
 ## Training
 You can train your own models using the training.ipynb notebook. The code is made for training on the FFHQ dataset with 16 dimensions and 128x128 image size. You will need to change your model settings with a different dataset.
+
+## Usage
+Press on the latent space to see the corresponding image. Change the coordinates to see different perspectives.
